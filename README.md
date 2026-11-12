@@ -34,4 +34,3 @@ A full run takes about 6 minutes and about 2 GB of RAM (V2/V3 at depth 11). Set 
 ![Plot 1](plot1_effort_time.png)
 ![Plot 2](plot2_memory.png)
 
-Group members: *(add names)*
